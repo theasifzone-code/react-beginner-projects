@@ -1,9 +1,9 @@
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-# 🚀 React Beginner Projects
+# 🚀 React Projects
 
-Welcome to **React Beginner Projects**!  
+Welcome to **React Projects**!  
 This repository is a collection of **simple and beginner-friendly React projects** to help you:
 
 - 👨‍💻 Practice React fundamentals  
@@ -27,4 +27,4 @@ Each project is inside its own folder (e.g., `project-01-counter`, `project-02-t
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/theasifzone-code/react-beginner-projects.git
+   git clone https://github.com/theasifzone-code/react-projects.git
