@@ -23,8 +23,3 @@ Each project is inside its own folder (e.g., `project-01-counter`, `project-02-t
 
 ---
 
-## 🛠️ Getting Started
-
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/theasifzone-code/react-projects.git
