@@ -22,3 +22,7 @@ Welcome to **React Projects**!This repository is a collection of **simple and be
 Each project is inside its own folder (e.g., `project-01-counter`, `project-02-todo`, etc.) with a **README.md** explaining setup & usage.
 
 ---
+<<<<<<< HEAD
+=======
+
+>>>>>>> 14cff752c6e43a67fb8163599b57ac1f99f823cf
